@@ -156,6 +156,7 @@ Publikujemy poradniki o **kodach kreskowych**, **zakupach w Biedronce**, **kasac
 - 🔍 [Jak odczytać kod kreskowy EAN? Co oznaczają cyfry?](https://kodyzbiedry.pl/blog/jak-odczytac-kod-kreskowy-ean-co-oznaczaja-cyfry/) — budowa kodu EAN-13 krok po kroku
 - 🛒 [Kasa samoobsługowa w Biedronce — poradnik skanowania](https://kodyzbiedry.pl/blog/kasa-samoobslugowa-biedronka-poradnik-skanowania/) — jak korzystać z kasy samoobsługowej
 - 💰 [Jak sprawdzić cenę produktu w Biedronce po kodzie kreskowym?](https://kodyzbiedry.pl/blog/jak-sprawdzic-cene-produktu-biedronka-kod-kreskowy/) — poradnik krok po kroku
+- 🚚 [Outlet Biedronka i truck outletowy — gdzie, kiedy, co warto kupić?](https://kodyzbiedry.pl/blog/outlet-biedronka-truck-outletowy-gdzie-kiedy/) — lokalizacje, harmonogram i najlepsze okazje
 
 👉 **[Więcej artykułów na blogu →](https://kodyzbiedry.pl/blog/)**
 
