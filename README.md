@@ -20,7 +20,7 @@ Projekt powstał, bo brakowało w internecie prostego narzędzia do **wyszukiwan
 - 📸 **Zeskanować kod kreskowy** telefonem — skieruj kamerę na kod i od razu zobaczysz cenę
 - 📊 **Sprawdzić historię cen** — zobacz wykres jak zmieniała się cena w czasie
 - 🔥 **Znaleźć najlepsze przeceny** — codziennie aktualizowana lista produktów z największą obniżką
-- 🗺️ **Znaleźć najbliższy sklep** — mapa wszystkich sklepów Biedronka w Polsce
+- 🚚 **Znaleźć najbliższy outlet/truck** — sprawdź gdzie jest outlet Biedronki lub truck outletowy
 - 📱 **Zainstalować jako aplikację** — działa jako PWA, dodaj do ekranu głównego telefonu
 
 ---
