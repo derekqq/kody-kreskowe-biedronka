@@ -179,14 +179,14 @@ Szukasz inspiracji co możesz zrobić? Oto lista pomysłów:
 
 | Pomysł | Opis | Trudność |
 |--------|------|----------|
-| 🤖 Bot do Discorda | Bot wysyłający codzienne przeceny na kanał Discord | ⭐⭐ |
-| 📱 Bot Telegram | Bot do sprawdzania cen i przecen przez Telegram | ⭐⭐ |
-| 📊 Dashboard przecen | Wizualizacja trendów cenowych w Biedronce | ⭐⭐⭐ |
-| 🎙️ Asystent głosowy | Integracja z Alexa / Google Home | ⭐⭐⭐ |
-| 📱 Aplikacja mobilna | Natywna apka React Native / Flutter | ⭐⭐⭐⭐ |
-| 🧩 Rozszerzenie Chrome | Extension pokazujący ceny z Biedronki | ⭐⭐ |
-| 🐍 Wrapper Python | Biblioteka Python do łatwego korzystania z danych | ⭐⭐ |
-| 📋 Lista zakupów | Tworzenie list zakupów z obliczaniem kosztów | ⭐⭐⭐ |
+| 📋 Smart lista zakupów | Automatyczne tworzenie listy zakupów na podstawie najlepszych przecen z danego dnia/tygodnia | ⭐⭐ |
+| 🏆 Grywalizacja oszczędności | System punktów, odznak i rankingów za oszczędzanie — ile zaoszczędziłeś w miesiącu? | ⭐⭐⭐ |
+| 🎟️ Wymiana kuponami | Platforma do dzielenia się kuponami rabatowymi między użytkownikami | ⭐⭐⭐ |
+| 🔔 Powiadomienia o przecenach | Alert push/email gdy ulubiony produkt spadnie w cenie | ⭐⭐ |
+| 📊 Dashboard przecen | Wizualizacja trendów cenowych — wykresy, statystyki, porównania tygodniowe | ⭐⭐⭐ |
+| 🤖 Bot Telegram/Discord | Bot do sprawdzania cen i codziennych powiadomień o przecenach | ⭐⭐ |
+| 🧩 Rozszerzenie Chrome | Extension pokazujący ceny z Biedronki na stronach z przepisami | ⭐⭐ |
+| 📱 Aplikacja mobilna | Natywna apka ze skanerem, listą zakupów i powiadomieniami | ⭐⭐⭐⭐ |
 
 Przeczytaj [CONTRIBUTING.md](CONTRIBUTING.md) żeby dowiedzieć się więcej o procesie kontrybucji.
 
