@@ -143,11 +143,28 @@ Publikujemy poradniki i artykuły o kodach kreskowych, zakupach w Biedronce i os
 
 👉 **[Więcej artykułów →](https://kodyzbiedry.pl/blog/)**
 
+## 🤝 Współpraca
+
+Chcesz pomóc rozwijać projekt? Świetnie! Oto jak możesz się zaangażować:
+
+- 🐛 **Zgłoś błąd** — [Otwórz Issue](https://github.com/derekAllegro/kody-kreskowe-biedronka/issues/new)
+- 💡 **Zaproponuj funkcję** — opisz co chciałbyś zobaczyć
+- 🔧 **Wyślij Pull Request** — poprawki, nowe przykłady, tłumaczenia
+- 📝 **Napisz artykuł** — korzystasz z API? Podziel się swoim projektem!
+- ⭐ **Zostaw gwiazdkę** — pomaga w widoczności projektu
+
+### Pomysły na kontrybucje:
+- Wrapper API w innych językach (Go, Rust, PHP, Ruby)
+- Integracja z asystentami głosowymi
+- Bot do Discorda/Telegrama z przecenami
+- Dashboard z wizualizacją cen
+- Aplikacja mobilna (React Native / Flutter)
+
 ## 📬 Kontakt
 
 - 🌐 Strona: [kodyzbiedry.pl](https://kodyzbiedry.pl)
 - 📧 Kontakt: przez formularz na stronie
-- 🐛 Błędy: [Issues](https://github.com/USER/kody-kreskowe-biedronka/issues)
+- 🐛 Błędy: [Issues](https://github.com/derekAllegro/kody-kreskowe-biedronka/issues)
 
 ## 📄 Licencja
 
